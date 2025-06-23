@@ -1,8 +1,3 @@
-Here’s a **cool, sci-fi-inspired `README.md`** for your futuristic Python project that goes beyond today’s technological limits. The tone is mysterious, imaginative, yet structured enough for real-world GitHub use:
-
----
-
-````markdown
 # 🧠⚡ QuantumFlux: Project MindSync
 
 > *"Reality is an API call away."*
