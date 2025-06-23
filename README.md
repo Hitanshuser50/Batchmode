@@ -81,6 +81,6 @@ This repository is licensed under the **Mindware Manifesto**:
 
 ---
 
-> ©️ 2025–∞ QuantumFlux Labs
+ ©️ 2025–∞ QuantumFlux Labs
 
 
